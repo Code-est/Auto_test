@@ -1,3 +1,5 @@
+![936](https://github.com/user-attachments/assets/6ca480db-6fc1-4e6e-a0eb-16d46e169e91)
+
 Exe’шник для тестирования https://tools.mega8.ru/numbers/amount.php.
 Exe’шник использует библиотеки selenium, time, random.
 Exe’шник: 
